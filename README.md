@@ -1,5 +1,6 @@
 ### Hi there 👋 👽❤❤
 sujata kumari
+USING TERMINAL
 
 <!--
 **SUJATA14016/SUJATA14016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
